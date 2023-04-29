@@ -1,0 +1,1 @@
+This folder is used to store labels of test set, and if not providied, the folder can be empty.

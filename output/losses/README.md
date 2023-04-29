@@ -1,0 +1,1 @@
+Training and validation losses are saved in this folder during training
