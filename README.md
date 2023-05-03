@@ -14,7 +14,7 @@ U-Net
 │    │    ├─ images // 训练集图片
 │    │    └─ masks // 训练集标签
 ├─ inference.py // 推理
-├─ main.py // 主函数，执行训练，测试代码
+├─ main.py // 主函数，执行训练，推理代码
 ├─ models // 模型文件夹
 │    └─ unet.py // U-Net网络模型
 ├─ output
